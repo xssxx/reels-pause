@@ -1,2 +1,2 @@
 # reels-pause
-pause challenge accept
+pause challenge accepted
